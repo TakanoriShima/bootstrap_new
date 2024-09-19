@@ -61,3 +61,4 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'ffi', '1.15.5'
+gem 'sassc-rails', '~> 2.1' #sass-railsに変わって追加
